@@ -24,56 +24,19 @@ Criando soluções de tecnologia robustas e eficientes. Estou sempre em busca de
 </a>
 </p>
 
-🚀 Tecnologias e Ferramentas
-<table align="center">
-<tr>
-<td align="center" width="96">
-<a href="#macropower-tech">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-</a>
-<br>C++
-</td>
-<td align="center" width="96">
-<a href="#macropower-tech">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-</a>
-<br>Java
-</td>
-<td align="center" width="96">
-<a href="#macropower-tech">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-</a>
-<br>Python
-</td>
-<td align="center" width="96">
-<a href="#macropower-tech">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-</a>
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<a href="#macropower-tech">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-</a>
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<a href="#macropower-tech">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-</a>
-<br>Node.js
-</td>
-<td align="center" width="96">
-<a href="#macropower-tech">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
-</a>
-<br>React
-</td>
-<td align="center" width="96">
-<a href="#macropower-tech">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-</a>
-<br>Git
-</td>
-</tr>
-</table>
+🚀 Principais Tecnologias
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+🐍 Minha Jornada de Contribuições
+<div align="center">
+<img src="https://raw.githubusercontent.com/rootunk/rootunk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
