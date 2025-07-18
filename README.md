@@ -25,19 +25,55 @@ Criando soluções de tecnologia robustas e eficientes. Estou sempre em busca de
 </p>
 
 🚀 Tecnologias e Ferramentas
-<p align="center">
-<img alt="C++" title="C++" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img alt="Java" title="Java" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img alt="Python" title="Python" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img alt="JavaScript" title="JavaScript" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt="TypeScript" title="TypeScript" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img alt="Node.js" title="Node.js" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img alt="React" title="React" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img alt="Git" title="Git" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
-
-📊 Estatísticas do GitHub
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rootunk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootunk&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<table align="center">
+<tr>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+</a>
+<br>C++
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+</a>
+<br>Java
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+</a>
+<br>Python
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+</a>
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+</a>
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+</a>
+<br>Node.js
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
+</a>
+<br>React
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+</a>
+<br>Git
+</td>
+</tr>
+</table>
