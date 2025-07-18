@@ -1,94 +1,43 @@
-👨‍💻 Kaio Silva (root unk)
-Engenheiro de Software
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRzZGR3c2Z4eGd6dGNkeW53a29tZXJzN3B0cGFsN2Y0Z3g4c3ZpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" />
+</div>
 
-Me chamo Kaio Silva, um Engenheiro de Software apaixonado por criar soluções de tecnologia robustas e eficientes. Com foco em desenvolvimento e segurança, estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir com projetos inovadores.
+<h1 align="center">
+Olá, eu sou o Kaio Silva (root unk)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-🔗 Conecte-se comigo
-<p align="left">
+<p align="center">
+<strong>Engenheiro de Software | Apaixonado por Segurança e Código Limpo</strong>
+</p>
+
+<p align="center">
+Criando soluções de tecnologia robustas e eficientes. Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir com projetos inovadores.
+</p>
+
+<p align="center">
 <a href="https://linkedin.com/in/rootunk" target="_blank">
-<img
-alt="LinkedIn"
-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/rootunk" target="_blank">
-<img
-alt="GitHub"
-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
 
-🚀 Linguagens e Tecnologias
-<p align="left">
-<img
-alt="C++"
-title="C++"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
-<img
-alt="Java"
-title="Java"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img
-alt="Python"
-title="Python"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img
-alt="JavaScript"
-title="JavaScript"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-alt="TypeScript"
-title="TypeScript"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img
-alt="Node.js"
-title="Node.js"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img
-alt="React"
-title="React"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-alt="Git"
-title="Git"
-width="40px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+🚀 Tecnologias e Ferramentas
+<p align="center">
+<img alt="C++" title="C++" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img alt="Java" title="Java" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img alt="Python" title="Python" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img alt="JavaScript" title="JavaScript" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="TypeScript" title="TypeScript" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img alt="Node.js" title="Node.js" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img alt="React" title="React" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img alt="Git" title="Git" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
-
-<br/>
 
 📊 Estatísticas do GitHub
-<p align="center">
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootunk&layout=compact&langs_count=7&theme=tokyonight"
-/>
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=rootunk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-</p>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rootunk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootunk&layout=compact&langs_count=7&theme=dracula"/>
+</div>
