@@ -36,11 +36,8 @@ Criando soluções de tecnologia robustas e eficientes. Estou sempre em busca de
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-🏙️ Minhas Contribuições em 3D (Skyline)
+📊 Estatísticas do GitHub
 <p align="center">
-<a href="https://skyline.github.com/rootunk/2024">
-<img src="https://skyline.github.com/rootunk/2024.png" alt="GitHub Skyline 2024" width="80%">
-</a>
-<br>
-<em>Uma visualização 3D das minhas contribuições no GitHub. Clique para interagir!</em>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rootunk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootunk&layout=compact&langs_count=7&theme=dracula"/>
 </p>
