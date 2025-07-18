@@ -17,10 +17,10 @@ Criando soluções de tecnologia robustas e eficientes. Estou sempre em busca de
 
 <p align="center">
 <a href="https://meutmb.com" target="_blank">
-<img src="https://img.shields.io/badge/Meutmb-3B82F6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPk1ldXRtYjwvdGl0bGU+PHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMCAyYTEwIDEwIDAgMCAxIDEwIDEwIDEwIDEwIDAgMCAxLTEwIDEwQTEwIDEwIDAgMCAxIDIgMTIgMTAgMTAgMCAwIDEgMTIgMnoiLz48L3N2Zz4=" alt="Meutmb"/>
+<img src="https://img.shields.io/badge/Meutmb-3B82F6?style=for-the-badge" alt="Meutmb"/>
 </a>
 <a href="https://sitmb.com" target="_blank">
-<img src="https://img.shields.io/badge/Sitmb-10B981?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlNpdG1iPC90aXRsZT48cGF0aCBkPSJNMjQgMTloLTZ2LTJoNnYyem0tOC00aC02di0yaDZ2MnptOC00aC02di0yaDZ2MnptLTgtNGgtNnYtMmg2djJ6bTgtNGgtNnYtMmg2djJ6bS04LTRoLTYVLTJoNnYyeiIvPjwvc3ZnPg==" alt="Sitmb"/>
+<img src="https://img.shields.io/badge/Sitmb-10B981?style=for-the-badge" alt="Sitmb"/>
 </a>
 <a href="https://necrum.store" target="_blank">
 <img src="https://img.shields.io/badge/Necrum.store-EF4444?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Necrum.store"/>
