@@ -12,7 +12,7 @@ Olá, eu sou o Kaio Silva (root unk)
 </p>
 
 <p align="center">
-Criando soluções de tecnologia robustas e eficientes. Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir com projetos inovadores.
+Criando soluções de tecnologia robustas e eficientes. Estou sempre em busca de novos desafios e aprendizados para aprimorar as minhas habilidades e contribuir com projetos inovadores.
 </p>
 
 <p align="center">
@@ -36,8 +36,12 @@ Criando soluções de tecnologia robustas e eficientes. Estou sempre em busca de
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-📊 Estatísticas do GitHub
+💻 Atividade no GitHub
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rootunk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootunk&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/rootunk">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rootunk&repo=rootunk&theme=dracula" />
+</a>
+</p>
+<p align="center">
+<em>Veja os meus projetos e contribuições diretamente no meu perfil.</em>
 </p>
