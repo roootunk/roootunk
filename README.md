@@ -59,42 +59,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiosilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiosilva&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiosilva&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎯 Áreas de Especialização
-
-- **🔐 Segurança da Informação**: Desenvolvimento seguro, análise de vulnerabilidades
-- **⚡ Performance**: Otimização de código e arquiteturas escaláveis  
-- **🏗️ Arquitetura de Software**: Design patterns e clean architecture
-- **🔧 DevOps**: CI/CD, containerização e automação
-- **📱 Desenvolvimento Full-Stack**: Frontend moderno e APIs robustas
-
----
-
-## 🌟 Projetos em Destaque
-
-### 🎯 [Meutmb](https://meutmb.com)
-> Plataforma inovadora focada em soluções tecnológicas avançadas
-
-### ⚡ [Sitmb](https://sitmb.com)  
-> Sistema integrado de alta performance para gestão empresarial
-
-### 🛒 [Necrum Store](https://necrum.store)
-> E-commerce moderno com foco em experiência do usuário
-
----
-
 ## 📫 Vamos Conectar?
 
 <div align="center">
